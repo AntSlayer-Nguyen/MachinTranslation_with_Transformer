@@ -5,7 +5,8 @@
 3. English to France. The link is [here](https://www.kaggle.com/digvijayyadav/frenchenglish)
 4. France to English
 5. English to Italian
-# Frameworks: *Keras*. The pre-train weight is trained on RTX 3060 GPU, hence you need to install CUDA support for tensorflow to load the model. Follow [here]
+# Frameworks: *Keras*
+The pre-train weight is trained on RTX 3060 GPU, hence you need to install CUDA support for tensorflow to load the model. Follow [here]
 (https://www.tensorflow.org/install/gpu).
 # Model: Transformer model. 
 This can be based on [keras.io](https://keras.io/examples/nlp/neural_machine_translation_with_transformer/).
