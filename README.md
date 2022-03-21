@@ -63,7 +63,6 @@ If you are using anaconda3, do the following:
 ## What next?
 * Tune parameters to get higher performance.
 * Collect more data.
-* 
 
 
 # Reference. 
