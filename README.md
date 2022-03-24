@@ -56,6 +56,9 @@ If you are using anaconda3, do the following:
 ## Web Application
 <p style="text-align:center;"><img src="https://firebasestorage.googleapis.com/v0/b/mp212-ai.appspot.com/o/camera_capture%2Fimage.png?alt=media&token=d12384d2-f79a-4585-a8e1-2076a79183f4" width="700" height="400"></p>
 
+## Model 
+The model is trained and saved, you can download [here](https://drive.google.com/drive/folders/1tMALLOGkfJkZfHKp1-qrQBomPzwUhfs-?usp=sharing).
+
 ## Challenges
 * Some languages didn't perform well (English-French, English-Italian)
 * The data-set isn't large enough.
@@ -69,4 +72,5 @@ If you are using anaconda3, do the following:
 * [English-to-Spanish translation with a sequence-to-sequence Transformer](https://keras.io/examples/nlp/neural_machine_translation_with_transformer/).
 * Fran ̧cois Chollet (2021),Deep Learning with Python, Second Edition
 * Vũ Hữu Tiệp (2018), Machine Learning cơ bản
+
 
